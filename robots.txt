@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gaetaroof.parisfreire.com/sitemap.xml
